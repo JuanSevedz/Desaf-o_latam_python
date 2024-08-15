@@ -48,6 +48,10 @@ Durante el curso *Python INTERACTIVO*, se abordaron los siguientes temas:
 18. **Funciones de alto nivel**: Funciones que toman otras funciones como argumentos.
 19. **Listas por comprensión**: Creación eficiente de listas usando comprensión.
 
+## Certificados
+
+Puedes ver mis certificados de curso en la [carpeta de Certificados](./Certificados).
+
 ## Cómo Usar los Archivos
 
 Para ejecutar los archivos de Python, asegúrate de tener Python instalado en tu máquina. Puedes ejecutar un archivo usando el siguiente comando:
